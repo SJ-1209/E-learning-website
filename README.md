@@ -9,6 +9,3 @@ website from any device.
 
 ✔ Quiz Section is an interesting feature for students which provides them with lots of questions.
 They can view their scores easily and solutions to every question.
-
-✔ Projects – in this I have added a project section where students from schools and colleges can
-get projects for final year and for Class 12th Board Projects.
